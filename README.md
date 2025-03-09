@@ -2,13 +2,13 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="assets\img\trnlizardboxed.png" alt="trnlizardLogo" width="auto" height="80">
+    <img src="assets\trnlizardboxed.png" alt="trnlizardLogo" width="auto" height="80">
   </a>
 
   <h2 align="center">TrnlizardShowboxSim</h3>
 
   <p align="center">
-    - Short tool description -
+    - UNDER DEVELOPMENT: Grasshopper/Rhino setup using Trnlizard for simulating a paramtric shoebox models in Rhino -
   </p>
 </div>
 
@@ -43,16 +43,21 @@
 
 ## About the Tool
 
-Briefly describe what your tool does and its purpose.
+This tool provides a base for Rhino/Grasshopper to simulate a Shoebox model with already various predefined variables.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The Model is build with:
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Rhino](https://img.shields.io/badge/Rhino-7.0-lightgray)](https://www.rhino3d.com/)
+* [![Grasshopper](https://img.shields.io/badge/Grasshopper-1.0-green)](https://www.grasshopper3d.com/)
+* [![Trnlizard](https://img.shields.io/badge/Trnlizard-Tool-blue?logo=https://raw.githubusercontent.com/Chair-of-Build-Tech-Climate-Design/TrnlizardShoeboxSim/main/assets/trnlizardboxed.png)](https://www.trnlizard.com/)
 
+Grasshopper Plugins:
+
+The Scripts are build with:
+* Not yet available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +83,7 @@ Step-by-step guide on how to install and set up the tool, incl. code blocks.
 def welcome(tool-name):
     print(f"Welcome to the {tool-name} GitHub page!")
 
-welcome("cbe-webtool-name")
+welcome("Hello World")
 ```
 
 
@@ -107,8 +112,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Contact
-Information on how to contact the tool maintainer(s).
-We tend to not provide detailed contact information, but to use GitHub Discussions instead.
+Information on how to contact the tool maintainer(s). Prefereably use Github Issues.
 
 Your Name - [@your_linkedin](https://linkedin.com/ben-gottkehaskamp) - ben.gottkehaskamp@tum.de
 
