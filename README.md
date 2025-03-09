@@ -52,7 +52,10 @@ The Model is build with:
 
 * [![Rhino](https://img.shields.io/badge/Rhino-7.0-lightgray)](https://www.rhino3d.com/)
 * [![Grasshopper](https://img.shields.io/badge/Grasshopper-1.0-green)](https://www.grasshopper3d.com/)
-* [![Trnlizard](https://img.shields.io/badge/Trnlizard-Tool-blue?logo=https://raw.githubusercontent.com/Chair-of-Build-Tech-Climate-Design/TrnlizardShoeboxSim/main/assets/trnlizardboxed.png)](https://www.trnlizard.com/)
+* [![Trnlizard](https://img.shields.io/badge/Trnlizard-Tool-blue?logo=https://www.clipartmax.com/png/middle/246-2466962_trnlizard-trnlizard.png)](https://www.trnlizard.com/)
+* [![Colibri](https://img.shields.io/badge/Colibri-2.0.0-blue?logo=https://raw.githubusercontent.com/bhowes-tt/Colibri.Grasshopper/master/docs/Images/Logo.JPG)](https://www.colibri.com/)
+
+
 
 Grasshopper Plugins:
 
