@@ -51,9 +51,10 @@ This tool provides a base for Rhino/Grasshopper to simulate a Shoebox model with
 The Model is build with:
 
 * [![Rhino](https://img.shields.io/badge/Rhino-7.0-lightgray)](https://www.rhino3d.com/)
-* [![Grasshopper](https://img.shields.io/badge/Grasshopper-1.0-green)](https://www.grasshopper3d.com/)
-* [![Trnlizard](https://img.shields.io/badge/Trnlizard-Tool-blue?logo=https://www.clipartmax.com/png/middle/246-2466962_trnlizard-trnlizard.png)](https://www.trnlizard.com/)
-* [![Colibri](https://img.shields.io/badge/Colibri-2.0.0-blue?logo=https://raw.githubusercontent.com/bhowes-tt/Colibri.Grasshopper/master/docs/Images/Logo.JPG)](https://www.colibri.com/)
+* [![Grasshopper](https://img.shields.io/badge/Grasshopper-1.0-green)](https://www.rhino3d.com/)
+* [![Trnlizard](https://img.shields.io/badge/Trnlizard-06/2019-lightgreen)](https://www.food4rhino.com/en/app/trnlizard)
+* [![Colibri](https://img.shields.io/badge/Colibri-2.0.0-blue)](https://www.food4rhino.com/en/app/colibri)
+
 
 
 
