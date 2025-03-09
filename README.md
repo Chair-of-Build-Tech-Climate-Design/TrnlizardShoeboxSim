@@ -5,7 +5,7 @@
     <img src="assets\trnlizardboxed.png" alt="trnlizardLogo" width="auto" height="80">
   </a>
 
-  <h2 align="center">TrnlizardShowboxSim</h3>
+  <h2 align="center">TrnlizardShoeboxSim</h3>
 
   <p align="center">
     - UNDER DEVELOPMENT: Grasshopper/Rhino setup using Trnlizard for simulating a paramtric shoebox models in Rhino -

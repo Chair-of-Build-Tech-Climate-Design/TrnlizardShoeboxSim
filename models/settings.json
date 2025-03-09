@@ -1,0 +1,22 @@
+{
+  "parameters": [
+    {
+      "name": "UseActiveLayer", 
+      "value": false
+    }, 
+    {
+      "optional_values": [
+        0, 
+        1, 
+        2, 
+        3
+      ], 
+      "name": "UserParameter1", 
+      "value": false
+    }, 
+    {
+      "name": "UserParameter2", 
+      "value": false
+    }
+  ]
+}
