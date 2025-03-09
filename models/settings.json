@@ -1,22 +1,60 @@
-{
-  "parameters": [
+"General": [
     {
-      "name": "UseActiveLayer", 
-      "value": false
-    }, 
+        "name": "Weatherfile",
+        "value": True,
+        "optional_values": ["ExampleMunich.epw", "ExampleMunich_2.epw"],
+        "variant_names": ["Weather1", "Weather2"]
+    },
     {
-      "optional_values": [
-        0, 
-        1, 
-        2, 
-        3
-      ], 
-      "name": "UserParameter1", 
-      "value": false
-    }, 
+        "name": "Hemisphere",
+        "value": True,
+        "optional_values": ["NOTHERN", "SOUTHERN"],
+        "variant_names": ["NH", "SH"]
+    },
     {
-      "name": "UserParameter2", 
-      "value": false
+        "name": "SiteAltitude",
+        "value": False,
+        "optional_values": [490],
+        "variant_names": [490]
+    },
+    {
+        "name": "AnnualMeanOutsideTemperature",
+        "value": False,
+        "optional_values": [9.5],
+        "variant_names": [9.5]
+    },
+    {
+        "name": "Pressure",
+        "value": False,
+        "optional_values": [101325],
+        "variant_names": [101325]
     }
-  ]
-}
+],
+"Building": [
+    {
+        "name": "UserParameter1",
+        "value": True,
+        "optional_values": [0, 1],
+        "variant_names": ["Shortname1", "Shortname2"]
+    },
+    {
+        "name": "UserParameter2",
+        "value": False,
+        "optional_values": [3, 4],
+        "variant_names": ["OtherShortname1", "OtherShortname2"]
+    }
+],
+"Controls": [
+    {
+        "name": "UserParameterControl1",
+        "value": True,
+        "optional_values": ["ControlOption1", "ControlOption2"],
+        "variant_names": ["Control1", "Control2"]
+    },
+    {
+        "name": "UserParameterControl2",
+        "value": False,
+        "optional_values": [10, 20],
+        "variant_names": ["ControlOptionA", "ControlOptionB"]
+    }
+]
