@@ -54,8 +54,8 @@ The Model is build with:
 * [![Grasshopper](https://img.shields.io/badge/Grasshopper-1.0-green)](https://www.rhino3d.com/)
 
 Grasshopper Plugins:
-* [![Trnlizard](https://img.shields.io/badge/Trnlizard-06%2F2019-green)](https://www.food4rhino.com/en/app/trnlizard)
-* [![Colibri](https://img.shields.io/badge/Colibri-2.0.0-green)](https://www.food4rhino.com/en/app/colibri)
+* [![Trnlizard](https://img.shields.io/badge/Trnlizard-06%2F2019-lightgreen)](https://www.food4rhino.com/en/app/trnlizard)
+* [![Colibri](https://img.shields.io/badge/Colibri-2.0.0-blue)](https://www.food4rhino.com/en/app/colibri)
 
 The Scripts are build with:
 * Not yet available
