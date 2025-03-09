@@ -1,1 +1,4 @@
 *.gh
+
+# Ignore the 'model' folder
+model/
